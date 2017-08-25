@@ -9,14 +9,7 @@
 skills & tools: 
 	-HTML5, CSS; 
 	-jQuery, AngularJS, Bootstrap, ZURB, LESS ; 
-	-PHP;
 
-=== QA ===
-skills & tools:
-	-auto & manual tests
-	-autotest on Python
-	-Functional testing. Load testing
-	-Git. jira/ redmine.
 
 __________$___$
 __________$$__$$
